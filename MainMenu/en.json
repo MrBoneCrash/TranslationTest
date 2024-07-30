@@ -8,7 +8,6 @@
     "@DiscordButton": "Discord",
     "@ModsButton": "Mods",
     "@QuickTutorialButton": "Quick Tutorial",
-    "@LoadedModsText": "Mod loaded",
     "@OptionsButton": "Options",
     "@MultiplayerButton": "Multiplayer",
     "@FleetEditorButton": "Fleet Editor"
