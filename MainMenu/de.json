@@ -1,1 +1,16 @@
-{}
+{
+    "@WebsiteButton": "Webseite",
+    "@CreditsButton": "Credits",
+    "@UnlockedShipsAndWeaponsText": "Schiffe & Waffen freigeschaltet",
+    "@UnlockedShipsButton": "Freigeschaltete Schiffe",
+    "@ExitButton": "Beenden",
+    "@SingleplayerButton": "Einzelspieler",
+    "@DiscordButton": "Discord",
+    "@ModsButton": "Mods",
+    "@QuickTutorialButton": "Kurzes Tutorial",
+    "@OptionsButton": "Optionen",
+    "@MultiplayerButton": "Mehrspieler",
+    "@FleetEditorButton": "Fotten Editor",
+    "@LoadedModsTextSingular": "Mod geladen",
+    "@LoadedModsTextPlural": "Mods geladen"
+}
