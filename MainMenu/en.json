@@ -10,5 +10,7 @@
     "@QuickTutorialButton": "Quick Tutorial",
     "@OptionsButton": "Options",
     "@MultiplayerButton": "Multiplayer",
-    "@FleetEditorButton": "Fleet Editor"
+    "@FleetEditorButton": "Fleet Editor",
+    "@LoadedModsTextSingular": "Mod loaded",
+    "@LoadedModsTextPlural": "Mods loaded"
 }
