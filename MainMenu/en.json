@@ -15,5 +15,6 @@
     "@LoadedModsTextPlural": "Mods loaded",
 	"@TestText": "ThisIsATest",
 	"@Test2Test": "SecondTest",
-	"@Gabba": "Gandalf"
+	"@Gabba": "Gandalf",
+	"@Test5": "Test"
 }
