@@ -12,9 +12,5 @@
     "@MultiplayerButton": "Mehrspieler",
     "@FleetEditorButton": "Fotten Editor",
     "@LoadedModsTextSingular": "Mod geladen",
-    "@LoadedModsTextPlural": "Mods geladen",
-    "@TestText": "Dies ist ein Test",
-    "@Test2Test": "Zweiter Test",
-    "@Gabba": "Gandalf",
-    "@Test5": "Test"
+    "@LoadedModsTextPlural": "Mods geladen"
 }
