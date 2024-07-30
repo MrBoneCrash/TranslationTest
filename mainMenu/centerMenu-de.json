@@ -1,0 +1,15 @@
+{
+    "centerMenu": {
+        "Quick Tutorial": "Kurzes Tutorial",
+        "Singleplayer": "Einzelspieler",
+        "Multiplayer": "Mehrspieler",
+        "Fleet Editor": "Fotten Editor",
+        "Unlocked Ships": "Freigeschaltete Schiffe",
+        "Options": "Optionen",
+        "Mods": "Mods",
+        "Discord": "Discord",
+        "Website": "Webseite",
+        "Credits": "Credits",
+        "Exit": "Spiel Beenden"
+    }
+}
