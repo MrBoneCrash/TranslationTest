@@ -12,5 +12,8 @@
     "@MultiplayerButton": "Multiplayer",
     "@FleetEditorButton": "Fleet Editor",
     "@LoadedModsTextSingular": "Mod loaded",
-    "@LoadedModsTextPlural": "Mods loaded"
+    "@LoadedModsTextPlural": "Mods loaded",
+	"@TestText": "ThisIsATest",
+	"@Test2Test": "SecondTest",
+	"@Gabba": "Gandalf"
 }
