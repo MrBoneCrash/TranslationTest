@@ -13,8 +13,8 @@
     "@FleetEditorButton": "Fleet Editor",
     "@LoadedModsTextSingular": "Mod loaded",
     "@LoadedModsTextPlural": "Mods loaded",
-	"@TestText": "ThisIsATest",
-	"@Test2Test": "SecondTest",
-	"@Gabba": "Gandalf",
-	"@Test5": "Test"
+    "@TestText": "ThisIsATest",
+    "@Test2Test": "SecondTest",
+    "@Gabba": "Gandalf",
+    "@Test5": "Test"
 }
