@@ -1,1 +1,15 @@
-{}
+{
+    "@WebsiteButton": "Website",
+    "@CreditsButton": "Credits",
+    "@UnlockedShipsAndWeaponsText": "ships & weapons unlocked",
+    "@UnlockedShipsButton": "Unlocked Ships",
+    "@ExitButton": "Exit",
+    "@SingleplayerButton": "Singleplayer",
+    "@DiscordButton": "Discord",
+    "@ModsButton": "Mods",
+    "@QuickTutorialButton": "Quick Tutorial",
+    "@LoadedModsText": "Mod loaded",
+    "@OptionsButton": "Options",
+    "@MultiplayerButton": "Multiplayer",
+    "@FleetEditorButton": "Fleet Editor"
+}
